@@ -9,7 +9,7 @@ workflows: [build-openwrt-Lean.yml](https://github.com/sypopo/Actions-OpenWrt/bl
 
 config：[config-x86-Lean](https://github.com/sypopo/diy/blob/master/config-x86-Lean)
 
-DIY 脚本：[diy-x86-Lean.sh](https://github.com/sypopo/diy/blob/master/diy-x86-Lean.sh)
+DIY 脚本：[diy-x86-Lean.sh](https://github.com/day4742/opencajian/blob/main/diy-x86-Lean.sh)
 
 
 ##### 默认登陆:192.168.5.1, 密码:password ,默认4个网口，第1个到第3个网口为lan口,第4个网口为wan口
